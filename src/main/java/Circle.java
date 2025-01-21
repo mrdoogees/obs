@@ -38,7 +38,7 @@ class Circle extends JFrame {
         g2d.setPaint(Color.RED);
 
         // Set the axis with height and weight.
-        g2d.fillOval(200, 200, 200, 200);
+        g2d.fillOval(200, 200, 500, 500);
 
 
     }
